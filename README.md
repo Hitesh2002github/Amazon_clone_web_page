@@ -5,7 +5,9 @@ This project is a basic frontend clone of the Amazon homepage, built using **HTM
 ## 🖥️ Project Structure
 
 
+
 ## 💡 Features
+
 
 - Fully responsive navigation bar with:
   - Logo
