@@ -1,3 +1,4 @@
+
 # Amazon Homepage Clone
 
 This project is a basic frontend clone of the Amazon homepage, built using **HTML** and **CSS**. It simulates the layout and appearance of the official Amazon.com homepage but does not include any backend functionality or live data.
@@ -5,9 +6,7 @@ This project is a basic frontend clone of the Amazon homepage, built using **HTM
 ## 🖥️ Project Structure
 
 
-
 ## 💡 Features
-
 
 - Fully responsive navigation bar with:
   - Logo
@@ -42,4 +41,3 @@ This project is a basic frontend clone of the Amazon homepage, built using **HTM
 
 - This is **not** an official Amazon page and is intended for educational purposes only.
 - No JavaScript functionality is implemented yet, although a `<script src="javascript.js">` tag is included for future enhancement.
-
